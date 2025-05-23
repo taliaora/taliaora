@@ -32,7 +32,7 @@ I'm a PhD Candidate awaiting my viva, specialising in bioinformatics, AI in medi
 
 🔹 **[ColonScopeX: Leveraging Explainable Expert Systems with Multimodal Data for Improved Early Diagnosis of Colorectal Cancer](https://doi.org/10.48550/arXiv.2504.08824)**  
 *Sikora, N., Manschke, R.L., Tang, A.M., Dunstan, P., Harris, D.A., Yang, S. AAAI-25 B1*  
-→ Introduces an explainable multimodal AI framework integrating blood biomarkers and patient metadata to aid early colorectal cancer detection.
+→ Introduces an explainable multimodal AI framework integrating blood biomarkers and patient metadata to aid early colorectal cancer and polyp detection.
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=taliaora&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
