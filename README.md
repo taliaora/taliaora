@@ -1,5 +1,8 @@
-<div align="center">
 ## Hi there, I'm Natalia Sikora 👋
+
+<div align="center">
+
+
 ![My gif](https://github.com/taliaora/taliaora/blob/main/hello-there-general-kenobi.gif)
 
 
