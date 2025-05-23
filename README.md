@@ -24,17 +24,12 @@
 ![Bioconductor](https://img.shields.io/badge/Bioconductor-%23181818.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Multi-omics](https://img.shields.io/badge/Multi--omics-%2366CDAA.svg?style=for-the-badge)
 ![Metabolomics](https://img.shields.io/badge/Metabolomics-%23FF9A8B.svg?style=for-the-badge)
-## 🧬 Bioinformatics Toolbox
-
-### 🧪 Core Libraries & Pipelines
-![Bioconductor](https://img.shields.io/badge/Bioconductor-%23181818.svg?style=for-the-badge&logo=r&logoColor=white)
-![Seurat](https://img.shields.io/badge/Seurat-%23228B22.svg?style=for-the-badge)
-![scanpy](https://img.shields.io/badge/scanpy-%235A6986.svg?style=for-the-badge)
 ![Nextflow](https://img.shields.io/badge/Nextflow-%234285F4.svg?style=for-the-badge)
 ![nf-core](https://img.shields.io/badge/nf--core-%23606676.svg?style=for-the-badge)
 
 ### 🧬 Omics Techniques
 ![scRNA-seq](https://img.shields.io/badge/scRNA--seq-%239370c8.svg?style=for-the-badge)
+![scATAC-seq](https://img.shields.io/badge/scATAC--seq-%230084a0.svg?style=for-the-badge)
 ![ChIP-seq](https://img.shields.io/badge/ChIP--seq-%23c47e00.svg?style=for-the-badge)
 ![ATAC-seq](https://img.shields.io/badge/ATAC--seq-%230084a0.svg?style=for-the-badge)
 ![CUT&RUN](https://img.shields.io/badge/CUT%26RUN-%23564d8f.svg?style=for-the-badge)
