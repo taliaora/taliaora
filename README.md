@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Natalia Sikora 👋
 
 **I love working with**
 
