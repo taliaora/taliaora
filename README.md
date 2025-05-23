@@ -28,11 +28,11 @@ I'm a PhD Candidate awaiting my viva, specialising in bioinformatics, AI in medi
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=taliaora&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-</div>
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=taliaora&color=ff69b4)
-
+</div>
 
 ## 🧠 AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
