@@ -33,6 +33,12 @@ I'm a PhD Candidate awaiting my viva, specialising in bioinformatics, AI in medi
 🔹 **[ColonScopeX: Leveraging Explainable Expert Systems with Multimodal Data for Improved Early Diagnosis of Colorectal Cancer](https://doi.org/10.48550/arXiv.2504.08824)**  
 *Sikora, N., Manschke, R.L., Tang, A.M., Dunstan, P., Harris, D.A., Yang, S. AAAI-25 B1*  
 → Introduces an explainable multimodal AI framework integrating blood biomarkers and patient metadata to aid early colorectal cancer and polyp detection.
+
+
+🔹 **[Measuring Fairness in Financial Transaction Machine Learning Models](https://doi.org/10.48550/arXiv.2501.10784)**  
+*Ayvaz, D.S., Belenguer, L., He, H., Kanubala, D.D., Li, M., Low, S., Mougan, C., Onwuegbuche, F.C., Pi, Y., Sikora, N., Tran, D., Verma, S., Wang, H., Xie, S., Pelletier, A. arXiv preprint, 2025*  
+→ A Mastercard and Alan Turing Institute collaboration tackling fairness evaluation in financial ML models through explainable and responsible AI practices.
+
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=taliaora&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
