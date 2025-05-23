@@ -13,6 +13,9 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </div>
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=taliaora&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=taliaora&color=ff69b4)
 
 
