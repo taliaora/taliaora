@@ -14,6 +14,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%237d3cff.svg?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/HuggingFace_Transformers-yellow?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Explainable AI](https://img.shields.io/badge/Explainable_AI-%234285F4.svg?style=for-the-badge)
 ![AI Ethics](https://img.shields.io/badge/AI_Ethics-%23F36D5D.svg?style=for-the-badge)
