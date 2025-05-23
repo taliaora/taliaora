@@ -26,6 +26,10 @@
 ![Metabolomics](https://img.shields.io/badge/Metabolomics-%23FF9A8B.svg?style=for-the-badge)
 ![Nextflow](https://img.shields.io/badge/Nextflow-%234285F4.svg?style=for-the-badge)
 ![nf-core](https://img.shields.io/badge/nf--core-%23606676.svg?style=for-the-badge)
+![sc-Joint](https://img.shields.io/badge/sc--Joint-%23007ACC.svg?style=for-the-badge)
+![GLUE](https://img.shields.io/badge/GLUE-%237d3cff.svg?style=for-the-badge)
+![Harmony](https://img.shields.io/badge/Harmony-%239b59b6.svg?style=for-the-badge)
+
 
 ### 🧬 Omics Techniques
 ![scRNA-seq](https://img.shields.io/badge/scRNA--seq-%239370c8.svg?style=for-the-badge)
@@ -40,9 +44,6 @@
 ### 🔗 Data Integration & Modeling
 ![Multi-omics](https://img.shields.io/badge/Multi--omics-%2366CDAA.svg?style=for-the-badge)
 ![Metabolomics](https://img.shields.io/badge/Metabolomics-%23FF9A8B.svg?style=for-the-badge)
-![sc-Joint](https://img.shields.io/badge/sc--Joint-%23007ACC.svg?style=for-the-badge)
-![GLUE](https://img.shields.io/badge/GLUE-%237d3cff.svg?style=for-the-badge)
-![Harmony](https://img.shields.io/badge/Harmony-%239b59b6.svg?style=for-the-badge)
 
 ### 📊 Data Visualization
 ![ggplot2](https://img.shields.io/badge/ggplot2-%23D8A03A.svg?style=for-the-badge)
