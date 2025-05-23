@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=taliaora&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=taliaora&color=pink)
 
 
 ## 🧠 AI & Machine Learning
