@@ -24,9 +24,6 @@
 </div>
 I'm a PhD Candidate awaiting my viva, specialising in bioinformatics, AI in medical applications, xAI, and multimodal data integration. As a hobby, I enjoy playing with finance data (hello there, fellow investors!), data analytics, and visualisations. 
 
-📚 Recent Publications
-Perturbing LSD1 and WNT rewires transcription to synergistically induce AML differentiation
-Hosseini, A., Dhall, A., Ikonen, N., Sikora, N. et al. — Nature (2025)
 
 <div align="center">
   
