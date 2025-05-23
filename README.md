@@ -40,10 +40,8 @@ I'm a PhD Candidate awaiting my viva, specialising in bioinformatics, AI in medi
 → A Mastercard and Alan Turing Institute collaboration tackling fairness evaluation in financial ML models through explainable and responsible AI practices.
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=taliaora&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=taliaora&theme=dark&fire=ff69b4&ring=ff1493)](https://git.io/streak-stats)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=taliaora&color=ff69b4)
