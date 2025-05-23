@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-sikora-190902177/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taliaora)
-
+<!--
 **I love working with**
 
 <div display="flex">
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </div>
-<!--
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=taliaora&show_icons=true&theme=radical)
 -->
 </div>
