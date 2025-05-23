@@ -34,7 +34,7 @@
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-## 🧰 Tools & Workflow
+## 🧰 Tools, Workflow, Development Practices
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -42,8 +42,6 @@
 ![nf-core](https://img.shields.io/badge/nf--core-%23606676.svg?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Slurm](https://img.shields.io/badge/Slurm-HPC-%234D4D4D.svg?style=for-the-badge)
-
-## 🔄 Development Practices
 ![Agile](https://img.shields.io/badge/Agile-%23F7DF1E.svg?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOP-%239B59B6.svg?style=for-the-badge)
 ![DevOps](https://img.shields.io/badge/DevOps-%23007ACC.svg?style=for-the-badge)
