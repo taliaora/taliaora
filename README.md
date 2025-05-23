@@ -2,6 +2,7 @@
 ![My gif](https://github.com/taliaora/taliaora/blob/main/hello-there-general-kenobi.gif)
 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-sikora-190902177/)
 
 **I love working with**
 
