@@ -1,4 +1,3 @@
-## Hi there, I'm Natalia Sikora 👋
 
 <div align="center">
 
