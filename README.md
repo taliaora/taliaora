@@ -56,7 +56,7 @@ I'm a PhD Candidate awaiting my viva, specialising in bioinformatics, AI in medi
 ![Explainable AI](https://img.shields.io/badge/Explainable_AI-%234285F4.svg?style=for-the-badge)
 ![AI Ethics](https://img.shields.io/badge/AI_Ethics-%23F36D5D.svg?style=for-the-badge)
 
-## 🧬 Bioinformatics & Data Science
+## 🧬 Bioinformatics Data Science, Omics Techniques
 ![Seurat](https://img.shields.io/badge/Seurat-%23228B22.svg?style=for-the-badge)
 ![scanpy](https://img.shields.io/badge/scanpy-%235A6986.svg?style=for-the-badge)
 ![Bioconductor](https://img.shields.io/badge/Bioconductor-%23181818.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -67,9 +67,6 @@ I'm a PhD Candidate awaiting my viva, specialising in bioinformatics, AI in medi
 ![sc-Joint](https://img.shields.io/badge/sc--Joint-%23007ACC.svg?style=for-the-badge)
 ![GLUE](https://img.shields.io/badge/GLUE-%237d3cff.svg?style=for-the-badge)
 ![Harmony](https://img.shields.io/badge/Harmony-%239b59b6.svg?style=for-the-badge)
-
-
-### 🧬 Omics Techniques
 ![scRNA-seq](https://img.shields.io/badge/scRNA--seq-%239370c8.svg?style=for-the-badge)
 ![scATAC-seq](https://img.shields.io/badge/scATAC--seq-%230084a0.svg?style=for-the-badge)
 ![ChIP-seq](https://img.shields.io/badge/ChIP--seq-%23c47e00.svg?style=for-the-badge)
