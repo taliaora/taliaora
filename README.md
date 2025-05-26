@@ -45,7 +45,7 @@ I'm a PhD Candidate awaiting my viva, specialising in bioinformatics, AI in medi
 ![Profile Views](https://komarev.com/ghpvc/?username=taliaora&color=ff69b4)
 </div>
 
-## 🧠 AI & Machine Learning
+## AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
@@ -74,7 +74,7 @@ I'm a PhD Candidate awaiting my viva, specialising in bioinformatics, AI in medi
 ![CNV](https://img.shields.io/badge/CNV-%23005075.svg?style=for-the-badge)
 ![Differential Expression](https://img.shields.io/badge/Differential_Expression-%23a50034.svg?style=for-the-badge)
 
-### 🔗 Data Integration & Modeling
+### Data Integration & Modeling
 ![Multi-omics](https://img.shields.io/badge/Multi--omics-%2366CDAA.svg?style=for-the-badge)
 ![Metabolomics](https://img.shields.io/badge/Metabolomics-%23FF9A8B.svg?style=for-the-badge)
 
