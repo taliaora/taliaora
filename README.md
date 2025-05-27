@@ -43,6 +43,7 @@ I'm a PhD Candidate awaiting my viva, specialising in bioinformatics, AI in medi
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=taliaora&color=ff69b4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taliaora&layout=compact&theme=default)
 </div>
 
 ## AI & Machine Learning
