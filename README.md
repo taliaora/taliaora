@@ -41,7 +41,7 @@ I'm a PhD Candidate awaiting my viva, specialising in bioinformatics, AI in medi
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=taliaora&theme=dark&fire=ff69b4&ring=ff1493)](https://git.io/streak-stats)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=taliaora&show_icons=true&theme=radical)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=taliaora&color=ff69b4)
 
 </div>
