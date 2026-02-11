@@ -22,6 +22,7 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=taliaora&show_icons=true&theme=radical)
 -->
 </div>
+
 Hi! I'm **Natalia Sikora**, I'm a PhD Candidate (defended, working on corrections) and a postdoctoral fellow specialising in bioinformatics, AI in medical applications, xAI, and multimodal data integration. As a hobby, I enjoy playing with finance data (hello there, fellow investors!), data analytics, and visualisations. 
 
 
